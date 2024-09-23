@@ -20,4 +20,4 @@
 [2]: https://open.spotify.com/user/burdao?si=NOvM55qjSGKFkUryvmnwvg
 [3]: https://www.youtube.com/channel/UCrNDrGwDXmBErjp0BGqqOUw
 
-### Take a look at some of my projects
+### Take a look at some of my projects:
