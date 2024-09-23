@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-padovam-4769302ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-padovam-4769302ab/" height="30" width="40" /></a>
 <a href="https://instagram.com/@gustavopadovam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gustavopadovam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-padovam/" target="blank"><img align="center" src="./icons/web.png" alt="https://www.linkedin.com/in/gustavo-padovam/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-padovam-4769302ab/" target="blank"><img align="center" src="./icons/web.png" alt="https://www.linkedin.com/in/gustavo-padovam-4769302ab/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
