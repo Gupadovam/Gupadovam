@@ -11,6 +11,13 @@
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
 
+[1.1]: ./icons/linkedin.png
+[2.1]: ./icons/email.png
+[3.1]: ./icons/web.png
+
+[1]: https://www.linkedin.com/in/matheusburda/
+[2]: https://open.spotify.com/user/burdao?si=NOvM55qjSGKFkUryvmnwvg
+[3]: https://www.youtube.com/channel/UCrNDrGwDXmBErjp0BGqqOUw
+
+### Take a look at some of my projects
