@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo Padovam</h1>
 <h3 align="center">I'm passionate about competitions, especially sporting ones, and as a result I've developed a strong interest in programming challenges in general.</h3>
 
--  I'm a Computer Engineering student at Technological Federal University of Paraná
+- 👨‍💻 I'm a Computer Engineering student at Technological Federal University of Paraná
 - 🔭 I’m currently working on [LASSIP](https://utfpr.curitiba.br/lassip/)
 - 🌱 At the moment, I'm engaged in research and development on Ultrasound at AUSPEX 2, and in my free time, I'm learning **web development**.
+- 📫 How to reach me **gupadovam@gmail.com**
 - ⚡ Fun fact **I've cut my head 5 times... and I haven't given up sports yet!**
 
 <h3 align="left">Connect with me:</h3>
