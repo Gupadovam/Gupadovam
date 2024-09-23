@@ -2,7 +2,7 @@
 
 * I'm a Computer Engineering student at Technological Federal University of Paraná
 * I'm passionate about competition of any kind, especially involving sports and intellect. 
-* Learning full-stack development
+* At the moment, I'm engaged in research and development on Ultrasound at AUSPEX 2, and in my free time, I'm learning web development.
 * 20 years old and live in Curitiba - Paraná, Brazil
 * Fun fact: I've cut my head 5 times... and I haven't given up sports yet!
 
