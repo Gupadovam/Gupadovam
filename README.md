@@ -16,8 +16,8 @@
 [2.1]: ./icons/email.png
 [3.1]: ./icons/web.png
 
-[1]: https://www.linkedin.com/in/matheusburda/
-[2]: https://open.spotify.com/user/burdao?si=NOvM55qjSGKFkUryvmnwvg
-[3]: https://www.youtube.com/channel/UCrNDrGwDXmBErjp0BGqqOUw
+[1]: https://www.linkedin.com/in/gustavo-padovam-ferreira-4769302ab/?trk=opento_sprofile_topcard
+[2]: gupadovam@gmail.com
+[3]: https://matheusburda.github.io/
 
 ### Take a look at some of my projects:
