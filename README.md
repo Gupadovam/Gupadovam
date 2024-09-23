@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gutavo Padovam!👋
 
-<!--
-**Gupadovam/Gupadovam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a Computer Engineering student at Technological Federal University of Paraná
+* I'm passionate about competition of any kind, especially involving sports and intellect. 
+* Learning full-stack development
+* 20 years old and live in Curitiba - Paraná, Brazil
+* Fun fact: I've cut my head 5 times... and I haven't given up sports yet!
 
-Here are some ideas to get you started:
+## Feel free to reach out:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+
